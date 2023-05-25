@@ -1,0 +1,24 @@
+{
+  "name": "formedix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.1.2",
+    "hamjest": "^4.0.1",
+    "chai": "^4.3.6"
+
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "selenium-webdriver": "^4.9.2",
+    "chromedriver": "^113.0.0"
+
+  }
+}
