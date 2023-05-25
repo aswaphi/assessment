@@ -1,6 +1,8 @@
-# MEDICAL HISTORY
+# Anathi Swaphi
 
-## Getting started
+## MEDICAL HISTORY
+
+### Getting started
 
 To make it easy for you to get started with Github, here's a list of recommended next steps.
 
@@ -10,7 +12,7 @@ To make it easy for you to get started with Github, here's a list of recommended
 - Run 'npm install' to get all the required dependencies
 - Run 'npm test' to run the tests
 
-## Additional Information
+### Additional Information
 
 - The framework used is Behaviour Driven Development(BDD), using cucumberjs and the gherkin syntax, which is good to explain the business value contained in a feature.
 - The steps to follow the flow are in the 'features/medical_history.feature' space. In there you will be able to see the actions to achieve what was set for the task.
